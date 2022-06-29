@@ -1,5 +1,5 @@
 - DevOps enthusiast [✔️]
-- 10+ years of experience in IT support [✔️]
+- 10+ years of experience in IT environment [✔️]
 - Knowledge in process management [✔️]
 - Ability to adapt to new situations [✔️]
 - High organizational capacity and proactivity [✔️]
