@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hf-monteiro" alt="hf-monteiro" /></a> </p>
 
-- 👨‍💻 All of my personal projects are available at [GitHub](https://github.com/hf-monteiro)
+- 👨‍💻 All of my personal projects are available at [GitHub](https://github.com/hf-monteiro?tab=repositories)
 
 - 📫 How to reach me **higor.fmonteiro@gmail.com**
 
