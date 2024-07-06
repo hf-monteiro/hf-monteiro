@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **higor.fmonteiro@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1l1MkTjWkheQ82JoUJcNnz1nS6wVIyBY2/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1ylMNWZcQpgJSa0_8GyxssE7r7CH6wHHr/view?usp=drive_link)
 
 <br> <h4 align="left">Looking for:</h4>
 - Pursuing roles in remote-first organizations 🌍<br> 
