@@ -9,13 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hf-monteiro&label=Profile%20views&color=0e75b6&style=flat" alt="hf-monteiro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hf-monteiro" alt="hf-monteiro" /></a> </p>
-
 - 👨‍💻 All of my personal projects are available at [GitHub](https://github.com/hf-monteiro?tab=repositories)
 
 - 📫 How to reach me **higor.fmonteiro@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/14SsGRHx_l0XawzrK7DF57C-STVIHmSrV/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/10oPhW3WuNuZ15-jTkTYoICBB3SbG56hJ/view?usp=sharing)
 
 <br> <h4 align="left">Looking for:</h4>
 - Pursuing roles in remote-first organizations 🌍<br> 
