@@ -66,8 +66,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hf-monteiro&theme=github-dark-blue&border=30363d" />
-</div>
