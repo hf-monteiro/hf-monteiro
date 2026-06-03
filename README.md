@@ -55,18 +55,14 @@
 
 ### 📌 Featured Repositories
 
-<a href="https://github.com/hf-monteiro/tf-multi-acc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hf-monteiro&repo=tf-multi-acc&theme=github_dark&border_color=30363d" />
-</a>
-<a href="https://github.com/hf-monteiro/infra-modules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hf-monteiro&repo=infra-modules&theme=github_dark&border_color=30363d" />
-</a>
-<a href="https://github.com/hf-monteiro/simple-ecs-env">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hf-monteiro&repo=simple-ecs-env&theme=github_dark&border_color=30363d" />
-</a>
-<a href="https://github.com/hf-monteiro/cicd-examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hf-monteiro&repo=cicd-examples&theme=github_dark&border_color=30363d" />
-</a>
+| Repo | Description |
+|------|-------------|
+| [**tf-multi-acc**](https://github.com/hf-monteiro/tf-multi-acc) | Terraform patterns for AWS Organizations, multi-account foundations, cross-account IAM, shared networking |
+| [**infra-modules**](https://github.com/hf-monteiro/infra-modules) | Reusable Terraform modules for EKS, VPC, RDS, S3, SQS, and environment-oriented infrastructure |
+| [**simple-ecs-env**](https://github.com/hf-monteiro/simple-ecs-env) | ECS, RDS, ECR, SQS, VPC routing, and Secrets Manager integration lab environment |
+| [**cicd-examples**](https://github.com/hf-monteiro/cicd-examples) | GitLab CI/CD pipeline examples for single and multi-environment Terraform workflows |
+| [**packer-rhel-stigs**](https://github.com/hf-monteiro/packer-rhel-stigs) | Packer + Ansible for STIG-hardened RHEL images |
+| [**aws-scripts**](https://github.com/hf-monteiro/aws-scripts) | Operational Python/Bash scripts for AWS automation, ECS, IAM, and Secrets Manager |
 
 ---
 
@@ -79,7 +75,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hf-monteiro&theme=github-dark-blue&border=30363d" />
+<img src="https://streak-stats.demolab.com/?user=hf-monteiro&theme=github-dark-blue&border=30363d" />
 
 </div>
 
@@ -88,5 +84,5 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hf-monteiro&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hf-monteiro&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
