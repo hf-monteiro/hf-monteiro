@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Higor+Monteiro;Senior+DevOps+%2F+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;10%2B+years+in+infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Higor+Monteiro;Senior+DevOps+%2F+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;10%2B+years+in+the+IT+industry" alt="Typing SVG" />
 
 <p>
   <a href="https://hfmonteiro.dev" target="_blank">
