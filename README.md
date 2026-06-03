@@ -69,20 +69,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hf-monteiro&show_icons=true&theme=github_dark&border_color=30363d&hide_border=false&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hf-monteiro&layout=compact&theme=github_dark&border_color=30363d&langs_count=6" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hf-monteiro&theme=github-dark-blue&border=30363d" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hf-monteiro&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://streak-stats.demolab.com/?user=hf-monteiro&theme=github-dark-blue&border=30363d" />
 </div>
