@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=24292f&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Higor+Monteiro;Senior+DevOps+%2F+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;10%2B+years+in+the+IT+industry" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=24292f&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Higor+Monteiro;Senior+DevOps+%2F+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;15%2B+years+in+the+IT+industry" alt="Typing SVG" />
 
 <p>
   <a href="https://hfmonteiro.dev" target="_blank">
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I design enterprise AWS platforms, private networking architectures, production EKS environments, and delivery systems for regulated SaaS and distributed engineering teams. My work spans multi-account AWS foundations, PrivateLink, Transit Gateway, EKS with Istio, Terraform modules, and GitLab CI/CD — with a focus on platforms that are reliable, clear in code, and give teams strong defaults without hiding the architecture. AWS Advanced Networking Specialty certified. 10+ years in the IT industry.
+I design enterprise AWS platforms, private networking architectures, production EKS environments, and delivery systems for regulated SaaS and distributed engineering teams. My work spans multi-account AWS foundations, PrivateLink, Transit Gateway, EKS with Istio, Terraform modules, and GitLab CI/CD — with a focus on platforms that are reliable, clear in code, and give teams strong defaults without hiding the architecture. AWS Advanced Networking Specialty certified. 15+ years in the IT industry.
 
 Outside the terminal: fishing, hiking, and camping.
 
